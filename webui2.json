@@ -22,6 +22,16 @@
           "imageurl": "https://raw.githubusercontent.com/KillerDelta/sh-images/main/new_logo.png"
         }
       }
+      {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"1,0,0,1\">Mod Changes</>",
+          "title1": "<RichColor Color=\"1,0,0,1\">Mod Changes</>",
+          "text1": "Please note that the following mods will be removed on 24 Dec: \nSuper Cryo Pods \nBetter Trough \nEasy Honey Hive",
+          "imageurl": "https://raw.githubusercontent.com/KillerDelta/sh-images/main/new_logo.png"
+        }
+      }
+
     ],
     "links": [
       {
